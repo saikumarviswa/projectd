@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051897114278",
+    "firebase_url": "https://crm-app-3c5e0.firebaseio.com",
+    "project_id": "crm-app-3c5e0",
+    "storage_bucket": "crm-app-3c5e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051897114278:android:93b167aa7710a8a3fa8e67",
+        "android_client_info": {
+          "package_name": "com.example.flutteranimaters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051897114278-0g5e8hbcpkjjm1ds3skqr35oc91q7jm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutteranimaters",
+            "certificate_hash": "4bebf4e46497c34c5638be4665f37e981cf2396f"
+          }
+        },
+        {
+          "client_id": "1051897114278-9ggg6ojvg4imdrhmrdnkm382lgbjrus4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5VHxP7d-IwsQ5UUgeN4bOU3tB_NbH15o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051897114278-9ggg6ojvg4imdrhmrdnkm382lgbjrus4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
